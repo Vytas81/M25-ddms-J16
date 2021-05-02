@@ -1,0 +1,18 @@
+"Layer,C,254","Color,N,5,0","Linetype,C,254","Elevation,N,19,11","LineWt,N,5,0","RefName,C,254","Angle,N,19,11","SUPP_REF,C,24","EASTING,N,19,11","NORTHING,N,19,11","COVER_LEVE,N,19,11","National_G,C,254","National_1,N,19,6","Location,C,254","Node_Depth,N,19,6","Road_Name,C,254","Comments,C,254","Date,C,254","Constraint,C,254"
+InspectionChamber,30,Continuous,48.781,25,IC,202,SBG10,502063.575,185308.615,48.781,508125.8508,159242.2404,Right verge or central reserve,0.8,M25,FULL OF DEBRIS IN BOTTOM OF CHAMBER,20/03/2018,Unable to CCTV due to time constraints
+InspectionChamber,30,Continuous,48.989,25,IC,202,SBG12,502067.45,185299.352,48.989,508114.3306,159247.6672,Right verge or central reserve,0.8399,M25,DEBRIS IN BOTTOM OF CHAMBER,20/03/2018,Unable to CCTV due to time constraints
+InspectionChamber,30,Continuous,49.21,25,IC,202,SBG14,502071.356,185290.02,49.21,508103.8911,159252.6639,Right verge or central reserve,0.7799,M25,DEBRIS IN BOTTOM OF CHAMBER,20/03/2018,Unable to CCTV due to time constraints
+InspectionChamber,30,Continuous,49.405,25,IC,202,SBG16,502075.12,185281.165,49.405,508092.5575,159257.9821,Right verge or central reserve,0.8198,M25,DEBRIS IN BOTTOM OF CHAMBER,20/03/2018,Unable to CCTV due to time constraints
+Gully,3,Continuous,42.802,25,GU,198,SBA102,501945.472,185633.765,42.802,504263.4893,164101.3148,Right verge or central reserve,0.7799,M25,DEBRIS IN BOTTOM OF CHAMBER,21/03/2018,
+Gully,3,Continuous,42.899,25,GU,198,SBA103,501954.714,185608,42.899,504249.2847,164122.9096,Right verge or central reserve,0.7699,M25,DEBRIS IN BOTTOM OF CHAMBER,21/03/2018,
+Gully,3,Continuous,43.903,25,GU,205,SBA113,501992.858,185516.539,43.903,504196.7875,164205.4867,Right verge or central reserve,0.8198,M25,DEBRIS IN BOTTOM OF CHAMBER,21/03/2018,
+Outlet,6,Continuous,0,25,OL,0,SBA112,501996.084,185550.279,0,504483.0052,179082.7513,Right verge or central reserve,0,M25,UTR LID SEIZED,22/03/2018,UTR: Seized
+PhantomNode,7,Continuous,0,25,PN,0,ED59WC,502001.382,185540.792,0,504423.8604,179210.8195,Right verge or central reserve,0,M25,UTR LID SEIZED,22/03/2018,UTR: Seized
+PhantomNode,7,Continuous,0,25,PN,198,UNKSBE3,501831.932,185965.105,0,504402.0429,179252.4784,Right verge or central reserve,0,M25,UTR LID SEIZED,22/03/2018,UTR: Seized
+PhantomNode,7,Continuous,0,25,PN,198,UNKSBE4,501919.421,185718.411,0,504400.5624,179255.2693,Right verge or central reserve,0,M25,UTR LID SEIZED,22/03/2018,UTR: Seized
+PhantomNode,7,Continuous,0,25,PN,198,UNKSBA106,501962.437,185605.327,0,502770.9998,184321.0567,Right verge or central reserve,0.8299,M25,LID WAS COVERED WITH VEGETATION,23/03/2018,
+PhantomNode,7,Continuous,0,25,PN,198,UNKSBA108,501970.068,185589.371,0,509215.1838,158516.2628,Right verge or central reserve,1.32,M25,SILT IN CHAMBER,20/03/2018,
+Catchpit,5,Continuous,0,25,CP,203,AT2097,501837.271,185787.807,0,504247.815,181384.466,Left verge (road) or verge (motorway),2.0499,M25,SPLIT COVER.LEVELLED. APPROXIMATE POSITION.,06/04/2018,Asset under a bridge.
+PhantomNode,7,Continuous,0,25,PN,0,UNKAT2087,501914.607,185645.762,0,502816.23,166416.6,Lane 1 (road) or hard shoulder (motorway),0.6298,M25,FULL OF SILT,14/04/2018,
+PhantomNode,7,Continuous,0,25,PN,0,UNKAT2086,501894.565,185630.168,0,504478.22,177629.15,Right verge or central reserve,0.6499,M25,DST 0.41.SILTED,28/03/2018,
+GhostNode,7,Continuous,0,25,GN,0,SC5T,502137.854,185096.169,53.328,504251.729,181580.804,Lane 1 (road) or hard shoulder (motorway),1.1,M25,Approximate location.,06/04/2018,
