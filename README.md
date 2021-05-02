@@ -1,5 +1,5 @@
 # M25-ddms-J16
-spatial data visualization with Python
+Spatial data visualization with Python:
 
 
 You will need to install git and conda on your computer for being able to start.
